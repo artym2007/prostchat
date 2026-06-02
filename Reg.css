@@ -1,0 +1,53 @@
+.a{
+  font-family: 'DS Diploma Art';
+  src: url('fonts/DSDiplomaArt-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-weight: bold; 
+ cursor: pointer;
+  padding-top: 10px;
+ font-size: 64px;
+text-align: center;
+  align-items: center;
+position: relative;
+top: 30px; 
+  
+}
+.b{
+  margin-top: 80px;
+  margin-left: 485px;
+  height: 640px;
+  width: 510px;
+  background-color: #B9B4B4;
+}
+.c{
+text-align: center;
+ font-size: 40px;
+  font-weight: bold; 
+}
+input[type="mes"] {
+text-align: center;
+ margin-bottom: 25px;
+  margin-left: 40px;
+    border-radius: 50px;
+    width: 430px; 
+    height: 64px;
+    font-size: 40px;
+  }
+
+.f{
+display: flex;
+  justify-content: center;
+  margin-left: 40px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold; 
+  height: 64px; 
+  width: 430px;
+  background-color: #27C840; 
+  border-radius: 100px; 
+  align-items: center; 
+  text-decoration: none;
+  text-decoration: none;
+  color: black;
+}
