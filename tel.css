@@ -1,0 +1,115 @@
+.a{
+  height: 120px;
+  width: 400px;
+  display: flex;
+  background-color: #B9B4B4;
+  align-items: center;
+  text-decoration: none;
+}
+.aa{
+  display: flex;
+  text-decoration: none;
+    margin-left: 30px;
+    text-shadow: 0 4px 4px #3A7743;
+    font-size: 36px;
+   color: black
+}
+.b{
+  height: 50px;
+  width: 50px;
+  display: flex;
+}
+.s{
+    text-shadow: 0 4px 4px #3A7743;
+    font-size: 36px;
+}
+.q{
+  color: white;
+  font-size: 36px;
+  font-weight: bold; 
+  height: 50px; 
+  width: 50px;
+  display: flex;
+  background-color: #3A7743; 
+  border-radius: 100px; 
+  align-items: center; 
+  justify-content: center;
+}
+.h{
+position: relative;
+bottom: 30px; 
+
+  height: 760px;
+    width: 400px;
+ 
+    align-items: center;
+  background-image: url('https://avatars.mds.yandex.net/i?id=ce2ad76299ab1fec5b8a8c1a2f8fa6d3_l-8177770-images-thumbs&n=13');
+background-size: cover;
+}
+.a3{
+ font-size: 20px;
+ color: white;
+  margin-left: 150px;
+  padding-top: 15px;
+}
+
+.j{
+   font-size: 24px;
+  width: fit-content;
+  display: flex;
+  background-color: #ACD4FF;
+  border-radius: 50px;
+  align-items: center;
+  margin-bottom: 15px;
+  margin-left: 10px;
+  padding-right: 24px;
+  padding-left: 5px;
+  padding-bottom: 10px;
+}
+
+.i { 
+   font-size: 24px;
+  width: fit-content;
+  display: flex;
+  background-color: white;
+  border-radius: 50px;
+  align-items: center;
+  margin-bottom: 15px;
+    margin-right: 20px;
+  padding-left: 15px;
+  padding-right: 24px;
+  padding-bottom: 10px;
+margin-left: auto;
+}
+.a4{
+  padding-left: 15px;
+ font-size: 14px;
+ color: grey;
+position: relative;
+top: 15px; 
+}
+
+
+input[type="mes"] {
+    width: 170px; 
+    height: 60px;
+    font-size: 24px;
+  border: 1px, solid, #FFFDFD;
+ outline: none;
+  }
+.y{
+margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 360px; 
+  display: flex;                  
+  align-items: center;              
+  border-radius: 20px;              
+  background-color: #FFFDFD;                 
+  gap: 10px;  
+}
+.k{
+    width: 36px;
+    height: 40px;
+    cursor: pointer;
+}
