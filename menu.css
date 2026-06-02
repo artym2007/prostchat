@@ -1,0 +1,169 @@
+.a{
+  height: 250px;
+  width: 400px;
+  background-color: #B9B4B4;
+  align-items: center;
+}
+.g{
+
+  display: flex;
+}
+.b{
+
+  height: 50px;
+  width: 50px;
+}
+.s{
+    margin-left: 30px;
+    text-shadow: 0 4px 4px #3A7743;
+    font-size: 48px;
+  align-items: center; 
+  justify-content: center;
+  text-decoration: none;
+   position: relative;
+bottom: 150px;
+left: 50px;
+}
+.q{
+  color: white;
+  font-size: 64px;
+  font-weight: bold; 
+  height: 90px; 
+  width: 90px;
+  display: flex;
+  background-color: #3A7743; 
+  border-radius: 100px; 
+  align-items: center; 
+  justify-content: center;
+  text-decoration: none;
+   position: relative;
+left: 105px;
+}
+.h{
+  height: 620px;
+    width: 400px;
+    align-items: center;
+  background-color: #EBE9E9;
+   position: relative;
+bottom: 150px;
+}
+.aa{
+  font-size: 24px;
+  display: flex;
+  height: 55px;
+  width: 400px;
+  background-color: #EBE9E9;
+  border: 1px, solid, black;
+  padding-top: 25px;
+
+}
+.l8{
+   position: relative;
+top: 60px; 
+}
+.l1{
+   position: relative;
+left: 200px;
+top: 60px;
+}
+.v{
+  font-size: 24px;
+color: grey;
+  font-weight: bold; 
+   position: relative;
+bottom: 170px;
+left: 130px;
+}
+.n{
+   position: relative;
+bottom: 10px;
+}
+.t{
+  height: 50px;
+  width: 50px;
+   position: relative;
+right: 30px;
+}
+.t1{
+  height: 50px;
+  width: 50px;
+   position: relative;
+right: 70px;
+}
+.t2{
+  height: 50px;
+  width: 50px;
+   position: relative;
+right: 120px;
+}
+.t3{
+  height: 50px;
+  width: 50px;
+   position: relative;
+right: 140px;
+}
+.t5{
+  height: 50px;
+  width: 50px;
+   position: relative;
+right: 160px;
+}
+.t4{
+  height: 50px;
+  width: 50px;
+   position: relative;
+right: 170px;
+}
+.t6{
+  height: 50px;
+  width: 50px;
+   position: relative;
+right: 220px;
+}
+.b1{
+  height: 80px;
+  width: 80px;
+   position: relative;
+top: 10px;
+}
+.n{
+  font-size: 24px;
+  font-weight: bold; 
+   position: relative;
+left: 10px;
+}
+.m{
+  font-size: 20px;
+  font-weight: bold; 
+   position: relative;
+left: 30px;
+top: 10px;
+}
+.b2{
+  height: 80px;
+  width: 80px;
+   position: relative;
+top: 10px;
+left: 25px;
+}
+.b3{
+  height: 80px;
+  width: 80px;
+   position: relative;
+top: 30px;
+left: 25px;
+}
+.o{
+
+  font-size: 16px;
+  font-weight: bold; 
+   position: relative;
+left: 20px;
+}
+.m1{
+  font-size: 20px;
+  font-weight: bold; 
+   position: relative;
+left: 30px;
+top: 30px;
+}
